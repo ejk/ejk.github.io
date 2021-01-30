@@ -28,7 +28,7 @@ twitter_username: ejk
 github_username:  ejk
 
 # Build settings
-theme: jekyll-theme-leap-day
+theme: minima
 plugins:
   - jekyll-feed
 
