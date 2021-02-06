@@ -59,7 +59,7 @@ type: post
 ...
 ---
 
-[![Pictaps](%7B%7B%20site.baseurl%20%7D%7D/assets/2007/01/373407152_8fe6f26574_m.jpg){width="240" height="144"}](http://www.flickr.com/photos/ejk/373407152/ "Photo Sharing")I found this on \[http://www.boingboing.net/2007/01/26/stickfigure_webtoy.html\|Boing Boing\] last week, and it's been a blast with the kids.
+[![Pictaps](/assets/2007/01/373407152_8fe6f26574_m.jpg){width="240" height="144"}](http://www.flickr.com/photos/ejk/373407152/ "Photo Sharing")I found this on \[http://www.boingboing.net/2007/01/26/stickfigure_webtoy.html\|Boing Boing\] last week, and it's been a blast with the kids.
 
 \[http://roxik.com/pictaps/\|Pictaps\] is a super-cool flash app written by Japanese web designer \[http://roxik.com/\|Masayuki Kido\] that allows you to draw a character, then watch a multitude of them dance, cheer and jump around to the beat of funky music. The drawing tools are simple enough that my 6 and 3-year-olds were able to use them, but still sufficiently powerful to create some real artwork if you put some time into it.
 

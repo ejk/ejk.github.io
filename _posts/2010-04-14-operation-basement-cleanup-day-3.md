@@ -31,7 +31,7 @@ type: post
 
 ***Sidequest discovered! Press Credit Card to start the "Repair Broken Sump Pump" quest...***
 
-\[caption id="attachment_199" align="alignleft" width="300" caption="Replacing the Sump Pump"\][![](%7B%7B%20site.baseurl%20%7D%7D/assets/2010/04/img_0383.jpg?w=300 "Sump Pump Replacement"){.size-medium .wp-image-199 width="300" height="225"}](http://rhymeswithtoaster.com/2010/04/14/operation-basement-cleanup-day-3/img_0383/)\[/caption\]
+\[caption id="attachment_199" align="alignleft" width="300" caption="Replacing the Sump Pump"\][![](/assets/2010/04/img_0383.jpg?w=300 "Sump Pump Replacement"){.size-medium .wp-image-199 width="300" height="225"}](http://rhymeswithtoaster.com/2010/04/14/operation-basement-cleanup-day-3/img_0383/)\[/caption\]
 
 Today started off much the same as the last two: getting up and out the door for school, returning home, grabbing an extra cup of coffee and heading into the basement. I got through the remainder of the East Side room boxes and had stacked the toys to the side, as they are planned to remain in this area. I started cleaning and vacuuming up the last remaining corner of the area and decided to take a closer look at the sump pump, which hadn't been working right recently. I took the cover off and noticed some oil floating on the surface of the almost full sump, which obviously wasn't a good sign. I disconnected the pump from the pipe and tried running it by itself. The motor hummed, but no water moved. I took the bottom cover off and tried to spin the propeller of the pump: it was locked up. Broken sump pump = basement cleanup project delayed.
 

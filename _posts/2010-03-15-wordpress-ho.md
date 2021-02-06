@@ -138,7 +138,7 @@ type: post
 ...
 ---
 
-[![](%7B%7B%20site.baseurl%20%7D%7D/assets/2010/03/23-wordpress_logo.png?w=100 "Wordpress Logo"){.alignleft .size-thumbnail .wp-image-81 width="100" height="100"}](http://rhymeswithtoaster.wordpress.com/2010/03/15/wordpress-ho/23-wordpress_logo/)After a long time in hibernation, I have jump-started Rhymes With Toaster as a Wordpress blog. Drupal has been wonderful to me, it's my primary framework when I develop at my dayjob. But it has become clear that I do not need to have a personal hosting space when all I really need is a place to throw up some thoughts, link to other resources and redirect email. Also, drupal is a bit of overkill for a personal blog.
+[![](/assets/2010/03/23-wordpress_logo.png?w=100 "Wordpress Logo"){.alignleft .size-thumbnail .wp-image-81 width="100" height="100"}](http://rhymeswithtoaster.wordpress.com/2010/03/15/wordpress-ho/23-wordpress_logo/)After a long time in hibernation, I have jump-started Rhymes With Toaster as a Wordpress blog. Drupal has been wonderful to me, it's my primary framework when I develop at my dayjob. But it has become clear that I do not need to have a personal hosting space when all I really need is a place to throw up some thoughts, link to other resources and redirect email. Also, drupal is a bit of overkill for a personal blog.
 
 So, I've migrated all my old content to Wordpress and will be using wordpress.com for the host. It's much simpler for the needs and the cost is certainly cheaper than a full hosting plan.
 

@@ -27,7 +27,7 @@ type: post
 ...
 ---
 
-\[caption id="attachment_220" align="alignleft" width="300" caption="Basement Desk Area"\][![](%7B%7B%20site.baseurl%20%7D%7D/assets/2010/04/img_0404.jpg?w=300 "Basement Desk Area"){.size-medium .wp-image-220 width="300" height="225"}](http://rhymeswithtoaster.com/2010/04/16/operation-basement-cleanup-final/img_0404/)\[/caption\]
+\[caption id="attachment_220" align="alignleft" width="300" caption="Basement Desk Area"\][![](/assets/2010/04/img_0404.jpg?w=300 "Basement Desk Area"){.size-medium .wp-image-220 width="300" height="225"}](http://rhymeswithtoaster.com/2010/04/16/operation-basement-cleanup-final/img_0404/)\[/caption\]
 
 It's done. A long week of cleaning and organizing has transformed a literal dumping ground of random materials into part living space, part storage, part work area in the coolest part of the house. The biggest change of the day was the moving of a desk area into the east side of the basement, near the stairway door. All three file cabinets and a large dresser with office supplies have been assembled in a mighty array of desk work goodness. The rest of that area now has rugs, toys on shelves, and an assortment of chairs. We even found a decent spot for the Thomas the Train set. The rest of the basement is now at least consolidated, if not purged. All like-typed objects are now in the same general vicinity. So, overall, this week was not a really cleaning, but a huge organizing to put ourselves in a good position.
 

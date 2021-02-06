@@ -35,7 +35,7 @@ With football season gearing up, there is a lot of trepidation around Ann Arbor 
 
 If you consider yourself a Michigan Football fan, you should want coach Rodriguez to succeed. End of story. Why?
 
-\[caption id="attachment_289" align="alignleft" width="300" caption="Michigan fans show their support for Wolverines' head coach Rich Rodriguez."\][![](%7B%7B%20site.baseurl%20%7D%7D/assets/2010/08/inrodwetrust.jpeg?w=300 "In Rod We Trust"){.size-medium .wp-image-289 width="300" height="195"}](http://rhymeswithtoaster.com/2010/08/24/in-rod-we-trust/inrodwetrust/)\[/caption\]
+\[caption id="attachment_289" align="alignleft" width="300" caption="Michigan fans show their support for Wolverines' head coach Rich Rodriguez."\][![](/assets/2010/08/inrodwetrust.jpeg?w=300 "In Rod We Trust"){.size-medium .wp-image-289 width="300" height="195"}](http://rhymeswithtoaster.com/2010/08/24/in-rod-we-trust/inrodwetrust/)\[/caption\]
 
 The most basic reason is that if he succeeds, it means the football team is winning games. Which I assume all fans can agree on, right?
 

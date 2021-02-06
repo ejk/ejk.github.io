@@ -23,4 +23,4 @@ type: post
 
 [[<http://i.imgur.com/55YZl.gif>]{style="text-decoration:underline;"}]{style="color:#0000ee;"}
 
-[![](%7B%7B%20site.baseurl%20%7D%7D/assets/2012/03/55yzl.gif)](http://i.imgur.com/55YZl.gif)
+[![](/assets/2012/03/55yzl.gif)](http://i.imgur.com/55YZl.gif)

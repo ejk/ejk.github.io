@@ -121,6 +121,6 @@ Dallas? No strong feeling. Miami? Well... No real hatred, but there's a definite
 
 This man is the reason I'm rooting for the Mavs:
 
-[![cuban](%7B%7B%20site.baseurl%20%7D%7D/assets/2006/06/163055694_ed615caef8_o.jpg){width="250" height="316"}](http://www.flickr.com/photos/ejk/163055694/ "Mark Cuban")
+[![cuban](/assets/2006/06/163055694_ed615caef8_o.jpg){width="250" height="316"}](http://www.flickr.com/photos/ejk/163055694/ "Mark Cuban")
 
 Mark Cuban owns the Dallas Mavericks. Mark Cuban is a geek. He should be the hero of every self-professed sports geek in the world. This man started up a streaming audio service in his bathroom with a single HP server and an ISDN line and transformed it into Broadcast.com, which he sold to Yahoo for over 5 Billion dollars. Yes, that's **Billion** with a 'B'. And he started it to be able to personally listen to basketball games. He has a blog. He puts his email address on the jumbotron for fans to contact him. He's still involved with current geekery such as HDTV technologies. He speaks his mind, has a sense of humor, and knows more about hardcore technology than I ever will. Mark Cuban is the sports geek's dream. And that's why I'm rooting for the Dallas Mavericks.

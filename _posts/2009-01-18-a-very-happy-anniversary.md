@@ -41,7 +41,7 @@ type: post
 ...
 ---
 
-[![Ready for Surgery](%7B%7B%20site.baseurl%20%7D%7D/assets/2009/01/2200370171_cd1b049bd0.jpg){.alignleft width="300"}](http://www.flickr.com/photos/ejk/2200370171/ "Ready for Surgery by *ejk*, on Flickr")
+[![Ready for Surgery](/assets/2009/01/2200370171_cd1b049bd0.jpg){.alignleft width="300"}](http://www.flickr.com/photos/ejk/2200370171/ "Ready for Surgery by *ejk*, on Flickr")
 
 Our (now) five year old, J, used to get heavy fevers about every three weeks. It would spike up to about 103-104 degrees for two or three days and he'd be miserable. During this time he would also have trouble eating, drinking and just breathing. The doctor's diagnosis was [PFAPA](http://en.wikipedia.org/wiki/PFAPA), which is still a bit of a mystery regarding causes and treatments.
 

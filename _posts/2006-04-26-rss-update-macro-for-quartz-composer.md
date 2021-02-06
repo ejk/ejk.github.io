@@ -64,7 +64,7 @@ type: post
 ...
 ---
 
-[![qc_rss](%7B%7B%20site.baseurl%20%7D%7D/assets/2006/04/135479492_f95862901e_o.gif){width="128" height="102"}](http://www.flickr.com/photos/ejk/135479492/ "Photo Sharing")The RSS feed functionality of apple's Quartz Composer development tool has a lot of potential for creating dynamically generated information, but it leaves a little to be desired if you have data that is updating quickly. Quartz Composer's RSS patch uses Safari's RSS feed functions, which only get refreshed at a minimum of every 30 minutes. I've created a Custom Macro Patch that is similar to the standard Quartz Composer RSS Feed, but adds a "Duration" input that causes the RSS Feed to refresh after the specified time.
+[![qc_rss](/assets/2006/04/135479492_f95862901e_o.gif){width="128" height="102"}](http://www.flickr.com/photos/ejk/135479492/ "Photo Sharing")The RSS feed functionality of apple's Quartz Composer development tool has a lot of potential for creating dynamically generated information, but it leaves a little to be desired if you have data that is updating quickly. Quartz Composer's RSS patch uses Safari's RSS feed functions, which only get refreshed at a minimum of every 30 minutes. I've created a Custom Macro Patch that is similar to the standard Quartz Composer RSS Feed, but adds a "Duration" input that causes the RSS Feed to refresh after the specified time.
 
 I threw it together for an information display that needed to be updated quickly at an event. The safari update times were too long, but I noticed that If I specified a new URL for the RSS Feed module it would initiate a new download of the information. So all I needed a way to change the URL string without really changing where the RSS Feed was pointing.
 

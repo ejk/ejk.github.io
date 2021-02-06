@@ -44,7 +44,7 @@ type: post
 ...
 ---
 
-![Newsweek Cover](%7B%7B%20site.baseurl%20%7D%7D/assets/2006/04/123143791_f097922e41_o.jpg){width="174" height="240"}  ...that is, if your mom reads Newsweek. That means your dad, your grandma, your uncle Louie, or your brother-in-law Stan know about it if they read Newsweek. More importantly, it also means your mayor, your police chief, and your public library board know about The New Web (2.0) if they read Newsweek.
+![Newsweek Cover](/assets/2006/04/123143791_f097922e41_o.jpg){width="174" height="240"}  ...that is, if your mom reads Newsweek. That means your dad, your grandma, your uncle Louie, or your brother-in-law Stan know about it if they read Newsweek. More importantly, it also means your mayor, your police chief, and your public library board know about The New Web (2.0) if they read Newsweek.
 
 I think Newsweek did an admirable job, covering [MySpace](http://www.myspace.com), [Flickr](http://www.flickr.com) , and [YouTube](http://www.youtube.com) in depth, as well as mentioning technology such as RSS, AJAX, APIs and mashups. But I think they did the best at focusing on what The New Web is all about: user-created content. They are letting people understand that the web is not just another consumer media such as TV, radio, and newspapers, but it's becoming a interactive media where you can share your knowledge, thoughts and opinions. Rather than getting cought up in the technologies of RSS, tagging, and APIs, I think it's important for the casual observer to understand the foundational concept of The New Web. Once they get the "why", they can support and explore its further development.
 

@@ -53,7 +53,7 @@ type: post
 ...
 ---
 
-[![](%7B%7B%20site.baseurl%20%7D%7D/assets/2005/11/63384400_589a6cc5fc_m.jpg)](http://www.flickr.com/photos/ejk/63384400/ "photo sharing")\
+[![](/assets/2005/11/63384400_589a6cc5fc_m.jpg)](http://www.flickr.com/photos/ejk/63384400/ "photo sharing")\
 [[Get your Groove On](http://www.flickr.com/photos/ejk/63384400/)\
 Originally uploaded by [\*ejk\*](http://www.flickr.com/people/ejk/).\
 ]{style="font-size:.8em;font-weight:bold;margin-top:0;padding-top:0;"}

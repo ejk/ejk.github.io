@@ -115,7 +115,7 @@ The following text originally appeared on the following webpage (I will gladly g
 > 1.  If you have not done so, go to [nvidia.com](https://web.archive.org/web/20131010060130/http://www.nvidia.com/Download/index.aspx?lang=en-us) and download the drivers for your card.
 > 2.  Run the driver executable. A wizard will come up, asking you where it should extract the files, and you will have to click a checkbox that says something on the order of "I agree" and click next a few times.
 > 3.  Eventually, it will pop up a different wizard -- a NVIDIA-decorated one that looks like the following screenshot. When you see it, **cancel** the wizard, and of course tell it that "you're sure" that you want to cancel, etc.\
->     ![](%7B%7B%20site.baseurl%20%7D%7D/assets/2013/12/b1dc5bf298e1d49937dddb64b1e2b191.PNG)
+>     ![](/assets/2013/12/b1dc5bf298e1d49937dddb64b1e2b191.PNG)
 > 4.  Ok, now navigate to the folder that you told it to extract to in the above wizard. There is a file in there called **nv_disp.inf** or it could be something else (depending on your driver version), like **nv4_disp.inf** or**nv_disp_win7.inf**. The path should look something like this:
 >     <div>
 >
@@ -134,15 +134,15 @@ The following text originally appeared on the following webpage (I will gladly g
 > 1.  First, you need to use an EDID editor to find your monitor's unique line. To do that, download this utility, unzip, and run it.\
 >     [http://www.tucows.com/preview/329441](https://web.archive.org/web/20131010060130/http://www.tucows.com/preview/329441) (Alternate download: [Phoenix_1\_3.zip](https://web.archive.org/web/20131010060130/http://files.bortweb.com/Phoenix_1_3.zip))
 > 2.  Ok when it's open, click **New**.\
->     ![](%7B%7B%20site.baseurl%20%7D%7D/assets/2013/12/36c3de0c720eeb61ce5c85bb595b55e6.jpg)
+>     ![](/assets/2013/12/36c3de0c720eeb61ce5c85bb595b55e6.jpg)
 > 3.  Click **Extract Registry EDID**.\
->     ![](%7B%7B%20site.baseurl%20%7D%7D/assets/2013/12/29fdd89aa191ea261a3a1c8efdaa8a3d.jpg)
+>     ![](/assets/2013/12/29fdd89aa191ea261a3a1c8efdaa8a3d.jpg)
 > 4.  This box will pop up. Make sure you **click on the row**, before clicking the **Extract EDID** button.\
->     ![](%7B%7B%20site.baseurl%20%7D%7D/assets/2013/12/b7825cd5ab09e939c9912fe9592bdb35.jpg)
+>     ![](/assets/2013/12/b7825cd5ab09e939c9912fe9592bdb35.jpg)
 > 5.  Now all the info will be filled in the boxes. Click the **Byte Viewer** button.\
->     ![](%7B%7B%20site.baseurl%20%7D%7D/assets/2013/12/5f66617377b4a095a9b35c777c05121b.jpg)
+>     ![](/assets/2013/12/5f66617377b4a095a9b35c777c05121b.jpg)
 > 6.  This screen with all the numbers will appear. The numbers you need are in **Row 00, Columns 08 thru 0B**\
->     ![](%7B%7B%20site.baseurl%20%7D%7D/assets/2013/12/89177db65fda24a87065538a505f4752.jpg)
+>     ![](/assets/2013/12/89177db65fda24a87065538a505f4752.jpg)
 >
 > ------------------------------------------------------------------------
 >

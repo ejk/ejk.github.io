@@ -89,11 +89,11 @@ type: post
 
 *Note: I wrote this article for [byopvr.com](http://www.byopvr.com) a while ago, but I thought I'd get a copy up here as well. Basically, I turned my old desktop PC into a Tivo, but without a subscription fee and total control over the content. It also has the perk of being able to run PC software on the TV... including games. Which brings us to this article.*
 
-![](%7B%7B%20site.baseurl%20%7D%7D/assets/2006/03/ddr-06.jpg)I recently was introduced to the video game Dance Dance Revolution and suggested it to The Wife(tm). The game play is deceptively simple-- step on a game pad containing 4 arrows in time to arrows displayed on the screen in time to modern dance music. She isn't really a gamer, but the idea of getting some exercise made her interested. And not just for her, but it was a game that she could feel comfortable recommending to kids. I thought this might be the opening to get a console into the house... but the total cost of a new system, plus pads, plus the game itself just to play one game wasn't really feasible.
+![](/assets/2006/03/ddr-06.jpg)I recently was introduced to the video game Dance Dance Revolution and suggested it to The Wife(tm). The game play is deceptively simple-- step on a game pad containing 4 arrows in time to arrows displayed on the screen in time to modern dance music. She isn't really a gamer, but the idea of getting some exercise made her interested. And not just for her, but it was a game that she could feel comfortable recommending to kids. I thought this might be the opening to get a console into the house... but the total cost of a new system, plus pads, plus the game itself just to play one game wasn't really feasible.
 
 So she asked, "Can't you find a program for the PVR?"... which made a lot of sense (as usual). I had recently completed a project turning my old Desktop PC into a PVR which is connected 24/7 to the TV in our family room. It's a modest computer in today's PC market-- 1 GHz Celeron, 512MB of PC100 RAM and a GeForce 5200. But it should be powerful enough to play a relatively low demanding game such as DDR. So after a bit of investigation I found the answer to my quest: StepMania.
 
-[![](%7B%7B%20site.baseurl%20%7D%7D/assets/2006/03/menu.gif)\
+[![](/assets/2006/03/menu.gif)\
 http://www.stepmania.com/stepmania/](http://www.stepmania.com/stepmania/)\
 \
 It's an open-source DDR clone that runs on windows. There's a strong community and a lot of the familiar songs and steps have been ported over. Plus the program is FREE (you have to find your own song packs).
@@ -115,7 +115,7 @@ You should now be able to fire up StepMania and play… with your keyboard. But 
 
 There are some pads that are made specifically for a PC USB connection, but they are expensive. A much better way to go is to buy PS2 pads and a PS2 to USB connector. It's cheaper, and you have a much wider selection to choose from. The most expensive pads are arcade quality metal and high-impact plastic, and will run you about \$300 each. Personally, I took the opposite route and bought a couple of PS2 Dance Pads from Computer Geeks for \$8 each (not only cheap but they have stylish flaming feet on them!).
 
-[![](%7B%7B%20site.baseurl%20%7D%7D/assets/2006/03/CON-DMATT-FF-NB-unit.gif)![](%7B%7B%20site.baseurl%20%7D%7D/assets/2006/03/CON-DMATT-FF-NB-box.gif)![](%7B%7B%20site.baseurl%20%7D%7D/assets/2006/03/CON-DMATT-FF-NB-soft.gif)\
+[![](/assets/2006/03/CON-DMATT-FF-NB-unit.gif)![](/assets/2006/03/CON-DMATT-FF-NB-box.gif)![](/assets/2006/03/CON-DMATT-FF-NB-soft.gif)\
 http://www.geeks.com/details.asp?invtid=DMATT-FF-NB&cpc=SCH&srm=0](http://www.geeks.com/details.asp?invtid=DMATT-FF-NB&cpc=SCH&srm=0)
 
 I bought two so my wife and I can both play at the same time. It's much more fun to play with two people at the same time than having to take turns. The pads have a certain “new-diaper” smell when you first open the box, but they fold up easily for stashing behind the couch when not in use. They've held up for months now without any problems. I have heard stories of people buying pads on Ebay, but they have had very mixed results on quality and reliability. I know that the “budget”-line pads have a limited lifetime, so I wanted to be sure I wasn't getting one that was 75% worn out already.
@@ -127,7 +127,7 @@ You need to be careful with this one, as some converters don't work with dance p
 <http://www.stepmania.com/stepmania/mediawiki.php?title=USBAdapters>
 
 I ended up finding the best deal from Ebay (I wasn't concerned about wear-and-tear on a box of wires and no moving parts). I ended up getting the “Super Dual Box”, which can handle both pads through a single USB connection.\
-![](%7B%7B%20site.baseurl%20%7D%7D/assets/2006/03/super-dual-box.jpg)![](%7B%7B%20site.baseurl%20%7D%7D/assets/2006/03/usb_RedOctaneSuperDualBox.jpg)
+![](/assets/2006/03/super-dual-box.jpg)![](/assets/2006/03/usb_RedOctaneSuperDualBox.jpg)
 
 **Final Setup and Config**
 

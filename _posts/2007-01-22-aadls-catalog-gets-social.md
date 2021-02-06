@@ -43,7 +43,7 @@ type: post
 ...
 ---
 
-![](%7B%7B%20site.baseurl%20%7D%7D/assets/2007/01/363136505_59bf2e11e7_m.jpg)I *was* going to write a quick blurb about \[http://www.perceptivepixel.com\|Perceptive Pixel's\] new \[http://fastcompany.com/video/general/perceptivepixel.html\|Multi-touch Computer Demonstration\] (which you should still totally check out), but I just have to write about the awesomeness that's sitting in front of me. The \[http://www.aadl.org/catalog\|AADL catalog\] has just been opened up to the public.
+![](/assets/2007/01/363136505_59bf2e11e7_m.jpg)I *was* going to write a quick blurb about \[http://www.perceptivepixel.com\|Perceptive Pixel's\] new \[http://fastcompany.com/video/general/perceptivepixel.html\|Multi-touch Computer Demonstration\] (which you should still totally check out), but I just have to write about the awesomeness that's sitting in front of me. The \[http://www.aadl.org/catalog\|AADL catalog\] has just been opened up to the public.
 
 Basically, it allows users to add and share information about any item in our catalog using tagging (\[http://www.aadl.org/\|tag cloud\]), reviews (\[http://www.aadl.org/sopac/viewrev/?bnum=1277847\|example review\]), and even comments on reviews.
 

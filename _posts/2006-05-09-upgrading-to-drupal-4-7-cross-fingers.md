@@ -51,7 +51,7 @@ type: post
 ...
 ---
 
-[![](%7B%7B%20site.baseurl%20%7D%7D/assets/2006/05/4.7-new.png)](http://drupal.org/videocasts/whats-new-in-4.7)
+[![](/assets/2006/05/4.7-new.png)](http://drupal.org/videocasts/whats-new-in-4.7)
 
 The Freetagging capabilities in Drupal 4.7 alone make it worth the upgrade.
 

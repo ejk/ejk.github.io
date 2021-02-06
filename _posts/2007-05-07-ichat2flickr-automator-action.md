@@ -78,7 +78,7 @@ type: post
 ...
 ---
 
-[![ichat2flickr.gif](%7B%7B%20site.baseurl%20%7D%7D/assets/2007/05/488177375_615ea11dab_o.gif){width="292" height="207"}](http://www.flickr.com/photos/ejk/488177375/ "Photo Sharing")Since I started using a Mac with a built-in iSight, I've been changing my buddy icon every morning. It's always a bit of a surprise how it comes out, because you only get 3 seconds to pose. Some of them were turning out pretty funny, and I wanted to be able to store and share them. So I wrote this automator script to upload the new picture to flickr using the email to flickr method.
+[![ichat2flickr.gif](/assets/2007/05/488177375_615ea11dab_o.gif){width="292" height="207"}](http://www.flickr.com/photos/ejk/488177375/ "Photo Sharing")Since I started using a Mac with a built-in iSight, I've been changing my buddy icon every morning. It's always a bit of a surprise how it comes out, because you only get 3 seconds to pose. Some of them were turning out pretty funny, and I wanted to be able to store and share them. So I wrote this automator script to upload the new picture to flickr using the email to flickr method.
 
 The keys to this project were:
 

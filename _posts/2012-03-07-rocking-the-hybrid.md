@@ -19,6 +19,6 @@ type: post
 ...
 ---
 
-[![20120307-210852.jpg](%7B%7B%20site.baseurl%20%7D%7D/assets/2012/03/20120307-210852.jpg){.alignnone .size-full}](http://rhymeswithtoaster.files.wordpress.com/2012/03/20120307-210852.jpg)
+[![20120307-210852.jpg](/assets/2012/03/20120307-210852.jpg){.alignnone .size-full}](http://rhymeswithtoaster.files.wordpress.com/2012/03/20120307-210852.jpg)
 
 My new dual monitor arrangement of choice: one portrait for long text documents and one landscape for terminal windows and other apps.

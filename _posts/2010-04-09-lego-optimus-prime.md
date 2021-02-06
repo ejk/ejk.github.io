@@ -21,7 +21,7 @@ type: post
 ---
 
 ::: {style="text-align:left;padding:3px;"}
-[![](%7B%7B%20site.baseurl%20%7D%7D/assets/2010/04/4469637819_45856b5010.jpg)](http://www.flickr.com/photos/orion_pax/4469637819/ "photo sharing")\
+[![](/assets/2010/04/4469637819_45856b5010.jpg)](http://www.flickr.com/photos/orion_pax/4469637819/ "photo sharing")\
 \
 [[Optimus Prime](http://www.flickr.com/photos/orion_pax/4469637819/), originally uploaded by ["Orion Pax"](http://www.flickr.com/people/orion_pax/).]{style="font-size:.8em;margin-top:0;"}
 :::

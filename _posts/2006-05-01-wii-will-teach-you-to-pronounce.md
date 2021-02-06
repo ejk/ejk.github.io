@@ -51,7 +51,7 @@ type: post
 ...
 ---
 
-[![wiiviiv](%7B%7B%20site.baseurl%20%7D%7D/assets/2006/05/138327106_be9bbe19a8_o.gif){width="200" height="137"}](http://www.flickr.com/photos/ejk/138327106/ "Photo Sharing")So Nintendo's upcoming [video game system](http://revolution.nintendo.com) has a new name. Initially referred to as the "Revolution" during development, it is now going to be called the "Wii". When I saw that, the first question that popped into my mind was, "how do you pronounce that"? Apparently, Nintendo foresaw this problem, as they knew to explain it within the first few paragraphs of the unveiling announcement. From Nintendo:
+[![wiiviiv](/assets/2006/05/138327106_be9bbe19a8_o.gif){width="200" height="137"}](http://www.flickr.com/photos/ejk/138327106/ "Photo Sharing")So Nintendo's upcoming [video game system](http://revolution.nintendo.com) has a new name. Initially referred to as the "Revolution" during development, it is now going to be called the "Wii". When I saw that, the first question that popped into my mind was, "how do you pronounce that"? Apparently, Nintendo foresaw this problem, as they knew to explain it within the first few paragraphs of the unveiling announcement. From Nintendo:
 
 > Introducing… Wii.
 >

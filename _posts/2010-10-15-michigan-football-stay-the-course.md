@@ -21,7 +21,7 @@ type: post
 ...
 ---
 
-[![](%7B%7B%20site.baseurl%20%7D%7D/assets/2010/10/keepcalmgoblue1.jpg?w=224 "Keep Calm Go Blue"){.alignleft .size-medium .wp-image-309 width="224" height="300"}](http://rhymeswithtoaster.com/2010/10/14/keep-calm/keepcalmgoblue/)So Michigan lost to Michigan State. Denard Robinson showed that he is not perfect, and is in fact a sophomore quarterback who has only started half a dozen games. The Bandwagon is suddenly much lighter than it was a week ago when Michigan was ranked.
+[![](/assets/2010/10/keepcalmgoblue1.jpg?w=224 "Keep Calm Go Blue"){.alignleft .size-medium .wp-image-309 width="224" height="300"}](http://rhymeswithtoaster.com/2010/10/14/keep-calm/keepcalmgoblue/)So Michigan lost to Michigan State. Denard Robinson showed that he is not perfect, and is in fact a sophomore quarterback who has only started half a dozen games. The Bandwagon is suddenly much lighter than it was a week ago when Michigan was ranked.
 
 Yes, it's disappointing. But not unexpected.
 

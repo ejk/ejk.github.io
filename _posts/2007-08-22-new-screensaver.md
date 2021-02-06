@@ -46,7 +46,7 @@ Found via \[http://www.tuaw.com/2007/08/20/keeping-time-with-aurora-and-polarclo
 
 I just found this cool new screen saver called \[http://blog.pixelbreaker.com/polarclock/\|PolarClock\]. It's a cool visualization of the current time. It's available for Mac and Windows, so go get it.
 
-![](%7B%7B%20site.baseurl%20%7D%7D/assets/2007/08/widget.jpg)
+![](/assets/2007/08/widget.jpg)
 
 > PolarClock 3.0 is now available as a screen saver for Mac and Windows, and also as a dashboard widget for OSX Tiger.
 >

@@ -21,7 +21,7 @@ type: post
 ---
 
 ::: {style="text-align:left;padding:3px;"}
-[![](%7B%7B%20site.baseurl%20%7D%7D/assets/2010/03/4465420422_f11769eb3e.jpg)](http://www.flickr.com/photos/dugsong/4465420422/ "photo sharing")\
+[![](/assets/2010/03/4465420422_f11769eb3e.jpg)](http://www.flickr.com/photos/dugsong/4465420422/ "photo sharing")\
 \
 [[googlefest](http://www.flickr.com/photos/dugsong/4465420422/), originally uploaded by [dugsong](http://www.flickr.com/people/dugsong/).]{style="font-size:.8em;margin-top:0;"}
 :::

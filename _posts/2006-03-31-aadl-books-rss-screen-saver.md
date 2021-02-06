@@ -28,7 +28,7 @@ type: post
 
 [Download](http://bilbo.aadl.org/~kloostere/aadl_saver.qtz)
 
-[![aadl_saver1](%7B%7B%20site.baseurl%20%7D%7D/assets/2006/03/91150288_a0efe4915f.jpg){width="485" height="443"}](http://www.flickr.com/photos/ejk/91150288/ "Photo Sharing")
+[![aadl_saver1](/assets/2006/03/91150288_a0efe4915f.jpg){width="485" height="443"}](http://www.flickr.com/photos/ejk/91150288/ "Photo Sharing")
 
 **About:**\
 A dynamic display of New or Top Books (including cover images) from the AADL RSS feeds. Currently only displays books, as the other items don't have good cover images (yet). Best of all, the information comes from the AADL RSS feeds, meaning it's always up to date!\
@@ -48,4 +48,4 @@ Place the .qtz file in \~/Library/Screen Savers (just for you) or /Library/Scree
 
 **Coding:**\
 If you're interested, you can open the screen saver using \[w:Quartz Composer\]. It looks a little intimidating at first, but it's the most fun I've had coding.\
-[![aadl_saver_overview](%7B%7B%20site.baseurl%20%7D%7D/assets/2006/03/91150287_f234e651e2.jpg){width="500" height="322"}](http://www.flickr.com/photos/ejk/91150287/ "Photo Sharing")
+[![aadl_saver_overview](/assets/2006/03/91150287_f234e651e2.jpg){width="500" height="322"}](http://www.flickr.com/photos/ejk/91150287/ "Photo Sharing")

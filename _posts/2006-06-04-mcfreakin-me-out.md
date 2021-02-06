@@ -35,6 +35,6 @@ type: post
 
 Okay, is it just me or is anybody else *really* disturbed by the new McDonald's chicken sandwich ads?
 
-[![](%7B%7B%20site.baseurl%20%7D%7D/assets/2006/06/McFreaky.jpg)](http://www.youtube.com/watch?v=QDrdUP-7HKY)
+[![](/assets/2006/06/McFreaky.jpg)](http://www.youtube.com/watch?v=QDrdUP-7HKY)
 
 I'm not sure if what happens to this guy is really encouranging me to rush out and buy one of those chicken sandwiches. I mean, since when is inducing the fear of body transformation considered as something to encourage the purchase of your vittles? No thank you.

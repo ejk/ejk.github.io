@@ -30,7 +30,7 @@ My friends, this is a call to return to blogging; a return to those halcyon days
 
 Friends, collegues, those of the greater geek community:
 
-**[![Trash Can](%7B%7B%20site.baseurl%20%7D%7D/assets/2010/03/image005.jpeg?w=225 "Trash"){.alignleft .size-medium .wp-image-131 width="225" height="300"}](http://rhymeswithtoaster.com/2010/03/22/own-your-data-2/image005/)Stop throwing away your content.**
+**[![Trash Can](/assets/2010/03/image005.jpeg?w=225 "Trash"){.alignleft .size-medium .wp-image-131 width="225" height="300"}](http://rhymeswithtoaster.com/2010/03/22/own-your-data-2/image005/)Stop throwing away your content.**
 
 Looking at my own experience I can see why social networking sites are becoming so popular. I had stopped posting on my personal blog because it had become too much effort. It was so much easier to post a quick thought on Twitter or to upload a picture to Facebook. And the feedback was immediate, because that's where the people are. Your collegues and business contacts are on Twitter. Your mom and dad are on the Facebook. We gravitate to these sites because that's where the rich interactions take place.
 

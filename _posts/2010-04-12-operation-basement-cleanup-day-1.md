@@ -33,4 +33,4 @@ The bulk of today's effort was spent clearing some space in the back of the base
 
 Nothing really to show with pictures as everything is still pretty much as crowded as before, it's just sorted. But I will show this, from a box of G.I. Joes that my son found and we had a blast playing with. It's "me" as a G.I. Joe. They had a special send-in promotion where you could order a custom figure with your own information sheet. My codename was "Tornado".
 
-[![](%7B%7B%20site.baseurl%20%7D%7D/assets/2010/04/tornado.jpg "Tornado"){.size-full .wp-image-179 .aligncenter width="384" height="512"}](http://rhymeswithtoaster.com/2010/04/12/operation-basement-cleanup-day-1/tornado/)
+[![](/assets/2010/04/tornado.jpg "Tornado"){.size-full .wp-image-179 .aligncenter width="384" height="512"}](http://rhymeswithtoaster.com/2010/04/12/operation-basement-cleanup-day-1/tornado/)

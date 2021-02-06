@@ -26,7 +26,7 @@ type: post
 ...
 ---
 
-\[caption id="attachment_336" align="alignleft" width="300" caption="Steam running on multiple PCs"\][![Steam Client](%7B%7B%20site.baseurl%20%7D%7D/assets/2011/01/img_0697.jpg?w=300 "Steams"){.size-medium .wp-image-336 width="300" height="226"}](http://rhymeswithtoaster.com/2011/01/18/roll-your-own-steam-cloud-with-dropbox/img_0697/)\[/caption\]
+\[caption id="attachment_336" align="alignleft" width="300" caption="Steam running on multiple PCs"\][![Steam Client](/assets/2011/01/img_0697.jpg?w=300 "Steams"){.size-medium .wp-image-336 width="300" height="226"}](http://rhymeswithtoaster.com/2011/01/18/roll-your-own-steam-cloud-with-dropbox/img_0697/)\[/caption\]
 
 The [Steam](http://store.steampowered.com/) gaming platform has a great feature called "Steam Cloud" for users with multiple computers that automatically synchronizes settings and saved games between your separate installs. You can save your Half-Life 2 game right before the big strider battle on your laptop and pick it up right at the same place when you fire up your desktop PC.
 
