@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I can’t believe we pulled it off
-date: 2024-04-09 20:31 -0400
+date: 2024-04-08 20:31 -0400
 ---
 *Note: When we got home after the day's events I wanted to share some of my thoughts and memories for the day. I thought I'd make a post on Facebook or some other social media site with a couple of ideas. But as I started to write and the word count grew I realized it was too big to hide away on some proprietary site. And thus, here it is as I attempt (once again) to resurrect my blog. I'm hoping to figure out how to include some photos of the day but wanted to get it created and up for public consumption. Enjoy.*
 
